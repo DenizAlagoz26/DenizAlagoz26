@@ -1,34 +1,19 @@
 # Merhaba, Ben Deniz! 👋
 
-Yönetim Bilişim Sistemleri (MIS) bölümünden yüksek onur derecesiyle mezun oldum. Teknolojiyi iş süreçlerini iyileştiren bir araç olarak görüyor; yazılım geliştirme, bulut teknolojileri ve veri analitiği alanlarında değer üreten çözümler geliştiriyorum.
+Yönetim Bilişim Sistemleri mezunuyum. Eğitimim ve bireysel çalışmalarım süresince yazılım geliştirme, bulut teknolojileri ve veri analitiği alanlarına odaklandım[cite: 1]. Teknolojiyi, iş süreçlerini iyileştiren ve problemlere değer üreten çözümler geliştirmek için bir araç olarak ele alıyorum[cite: 1]. Analitik düşünme ve teknik bakış açısını birleştirerek çözüm odaklı çalışmaya önem veriyorum[cite: 1].
 
-### 🔭 Deneyimlerim & Odaklandığım Alanlar
-- ☁️ **Bulut ve Veri Sistemleri:** Microsoft Azure ve Fabric üzerinde veri modelleme, ETL akışları kurma ve Power BI entegrasyonlu raporlamalar geliştirme süreçlerinde çalışıyorum.
-- 💻 **Yazılım Geliştirme:** C# ile operasyonel süreçleri hızlandıran API entegrasyonları kuruyor, Java/JavaFX ile uçtan uca masaüstü sistemleri (örneğin numune takip sistemleri) tasarlıyorum.
-- 🌐 **Web & Veritabanı:** .NET, React ve Angular gibi teknolojiler üzerinde çalışıyor; veritabanı yönetimi (MySQL, MS SQL, PostgreSQL) gerçekleştiriyorum.
-- 🔬 **Araştırma & IoT:** TÜBİTAK projelerinde yer almış bir araştırmacı olarak akademik süreçlere destek veriyor ve IoT (Nesnelerin İnterneti) çözümleriyle ilgileniyorum.
+### 💼 Deneyimlerim
+- **Microsoft Azure Data & AI Stajyeri (Nephos AI):** Microsoft Fabric üzerinde veri pipeline/ETL akışları kurdum, lakehouse mimarisinde veri modelleme çalışmaları yaptım ve Power BI entegrasyonlu raporlama/dashboard'lar geliştirdim[cite: 1]. Azure'da müşteri ortamlarına yönelik bulut kaynaklarının (VM, storage) provisioning ve konfigürasyon süreçlerini yürüttüm[cite: 1].
+- **Yazılım Geliştirme Stajyeri (Necdet Alpata A.Ş.):** C# kullanarak Google ve Outlook servisleriyle tam entegre çalışan bir yazılım çözümü geliştirdim ve operasyonel süreçlerin hızlanmasına katkı sağladım[cite: 1].
+- **BT Altyapı Stajyeri (Demir Export A.Ş.):** AR-GE ekibi için Java ve JavaFX kullanarak masaüstü tabanlı, uçtan uca bir "Maden Numune Takip Sistemi" geliştirdim[cite: 1]. Kurum içi DevOps ve network yönetimi operasyonlarında aktif rol aldım[cite: 1].
+- **Araştırma Asistanı (Işık Üniversitesi):** Uluslararası bir TÜBİTAK projesinde yer aldım ve ASP.NET MVC üzerine çalışmalar gerçekleştirdim[cite: 1].
 
-### 🛠️ Teknolojiler ve Araçlar
+### 🛠️ Yetenekler ve Teknolojiler
+- **Programlama Dilleri:** Java, C#, Python[cite: 1]
+- **Framework & Teknolojiler:** .NET, React, Angular, IoT[cite: 1]
+- **Web Teknolojileri:** HTML, CSS, JavaScript[cite: 1]
+- **Bulut & Veri Platformları:** Microsoft Azure, Microsoft Fabric, Power BI[cite: 1]
+- **Veritabanı Yönetimi:** MySQL, MS SQL, PostgreSQL[cite: 1]
+- **Yazılım Geliştirme Metodolojileri:** Sistem Analizi ve Tasarımı, Agile Proje Yönetimi[cite: 1]
 
-**Programlama Dilleri:**
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-**Bulut & Veri Platformları:**
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-**Web & Framework:**
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-
-**Veritabanı:**
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 📈 GitHub İstatistiklerim
-[![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=DenizAlagoz26&show_icons=true&theme=tokyonight)](https://github.com/DenizAlagoz26)
-
-📫 **Bana Ulaşın:** [LinkedIn](https://linkedin.com/in/denizalagoz) | [denizalagz26@gmail.com](mailto:denizalagz26@gmail.com)
+📫 **Bana Ulaşın:** [LinkedIn](https://linkedin.com/in/denizalagoz)[cite: 1] | [denizalagz26@gmail.com](mailto:denizalagz26@gmail.com)[cite: 1]
